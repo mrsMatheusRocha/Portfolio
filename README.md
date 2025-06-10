@@ -13,8 +13,6 @@ O objetivo deste portfólio é apresentar meus trabalhos, experiências e compet
 
 ## 📷 Demonstração
 
-Adicione aqui um screenshot ou GIF do portfólio (caso possível):
-
 ![Demonstração do Portfólio](caminho/para/imagem.png)
 
 ## 🧩 Funcionalidades
