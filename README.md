@@ -38,8 +38,8 @@ Sinta-se à vontade para fazer fork ou sugerir melhorias através de pull reques
 ## 📫 Contato
 
 Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [E-mail](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/matheus-rocha-sousa)
+- [E-mail](mailto:mrs.matheusrochasousa@gmail.com)
 
 ---
 
