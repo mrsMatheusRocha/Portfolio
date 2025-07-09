@@ -277,6 +277,12 @@ nav a {
   margin-top: 3rem;
 }
 
+@media (min-width: 550px) {
+  #contact .contact-text {
+    width: 300px
+    font-size: 0.7rem
+  }
+}
 /* footer */
 
 footer {  
